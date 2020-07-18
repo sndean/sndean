@@ -1,5 +1,7 @@
-### Hi 👋
+# Hi 👋
 
-- 👨🏼 I'm sndean
-- 🧬 I'm currently a Research Biologist
+![ ](img/wash.png)
+
+- 👨 I'm sndean
+- 🧬 I'm a scientist
 - 📫 How to reach me: sndean@fastmail.com
