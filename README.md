@@ -1,6 +1,6 @@
 # Hi 👋
 
-![ ](img/wash.png)
+About me:
 
 - 👨 I'm sndean
 - 🧬 I'm a scientist
