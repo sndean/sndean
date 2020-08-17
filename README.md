@@ -3,5 +3,5 @@
 About me:
 
 - 👨 I'm sndean
-- 🧬 I'm a scientist
+- 🧬 I work at the Center for Biomolecular Science and Engineering
 - 📫 How to reach me: sndean@fastmail.com
